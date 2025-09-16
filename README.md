@@ -1,17 +1,11 @@
-<h1 align="center">Luan Costa</h1>
+<h1 align="center">👨‍💻 Luan Costa</h1>
 
-<p align="center">
-  Estudante de Ciência da Computação · UTFPR <br>
-  Medianeira · Paraná · Brasil
-</p>
-
----
 
 ## ✨ Sobre mim
+🎓 Estudante de Ciência da Computação na **Universidade Tecnológica Federal do Paraná (UTFPR)**  
+💡 Apaixonado por tecnologia, programação e banco de dados.  
+🌍 Local: Medianeira - Paraná, Brasil
 
-- 🎓 Estudante na **Universidade Tecnológica Federal do Paraná**  
-- 💻 Apaixonado por **tecnologia, design minimalista e programação**  
-- 🚀 Sempre explorando **novas linguagens e frameworks**  
 
 ---
 
@@ -48,18 +42,18 @@
 
 ---
 
+## 🌎 Onde me encontrar  
+
+🌐 **Site:** [luancosta.dev](#)  
+💼 **LinkedIn:** [linkedin.com/in/luanrasec](#)
+
+---
+
 ## 👁️ Acessos  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iRasec&label=visitors&color=000000&style=flat-square" />
 </p>
-
----
-
-## 🌎 Onde me encontrar  
-
-🌐 **Site:** [luancosta.dev](#)  
-💼 **LinkedIn:** [linkedin.com/in/luanrasec](#)
 
 ---
 
